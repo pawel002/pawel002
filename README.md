@@ -1,4 +1,4 @@
-# HI, I'm Paweł
+# HI👋, I'm Paweł
 ---
 
 
