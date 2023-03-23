@@ -14,7 +14,7 @@ Contact: paweljarosz002@gmail.com
     <img src="https://github.com/pawel002/pawel002/blob/main/assets/g7734.png?raw=true" width=150/ style="float:left; padding: 20px;" >
   </a>
 <p>
-  <font size="5px"> Raytracing in Java </font> <br/>
+  <font size="5"> Raytracing in Java </font> <br/>
 I've created a compact raytracing engine which supports loading textures and skyboxes, light reflection, scatter and refraction. Native objects are spheres, pralellograms, and toruses. regardless of hard coded models, it also supports loading custom .obj meshes and wraps them in a bounding box. The engine allows the user to move in real time and write it to a png file at any time.
 </p>
 </td>
