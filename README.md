@@ -10,33 +10,61 @@ Contact: paweljarosz002@gmail.com
 <table>
 <tr>
 <td valign="top" width="50%">
-  <a href="https://github.com/pawel002/Raytracing">
-    <img src="https://github.com/pawel002/pawel002/blob/main/assets/g7734.png?raw=true" width=150/ style="float:left; padding: 20px;" >
-  </a>
-<p>
-  <font size="5px"> Raytracing in Java </font> <br/>
-I've created a compact raytracing engine which supports loading textures and skyboxes, light reflection, scatter and refraction. Native objects are spheres, pralellograms, and toruses. regardless of hard coded models, it also supports loading custom .obj meshes and wraps them in a bounding box. The engine allows the user to move in real time and write it to a png file at any time.
-</p>
+    
+<table>
+    <tr>
+        <td>  
+            <a href="https://github.com/pawel002/Raytracing">
+                <img src="https://github.com/pawel002/pawel002/blob/main/assets/g7734.png?raw=true" width=150/ style="float:left; padding: 20px;" >
+            </a>
+        </td>
+        <td>
+            <p>
+              <font size="5px"> Raytracing in Java </font> <br/>
+                I've created a compact raytracing engine which supports loading textures and skyboxes, light reflection, scatter and refraction. Native objects are spheres, pralellograms, and toruses. regardless of hard coded models, it also supports loading custom .obj meshes and wraps them in a bounding box. The engine allows the user to move in real time and write it to a png file at any time.
+            </p>
+        </td>
+    </tr>
+</table>
+
 </td>
 <td valign="top" width="50%">
-  <a href="https://github.com/pawel002/ParticleSystem">
-    <img src="https://github.com/pawel002/pawel002/blob/main/assets/g9648.png?raw=true" width=150/  style="float:left; padding: 20px;">
-  </a>
-<p>
-  <font size="5px"> GPU accelerated particle simulation in C++ </font> <br/>
-This project simulates a system of particles where the force between particles is dependent on distance and their color. Because I wanted to create an exact simulation which takes n^2 comparisons, I've implemented it using NVIDIA's CUDA interface for parallel computing. The graphics are rendered using OpenGL, which supports passing data with CUDA. Simulation has an interactive ImGUI GUI which allows the user to control its parameters and see the changes in real time.
-</p>
+    
+<table>
+    <tr>
+        <td>  
+              <a href="https://github.com/pawel002/ParticleSystem">
+                <img src="https://github.com/pawel002/pawel002/blob/main/assets/g9648.png?raw=true" width=150/  style="float:left; padding: 20px;">
+              </a>
+        </td>
+        <td>
+            <p>
+              <font size="5px"> GPU accelerated particle simulation in C++ </font> <br/>
+            This project simulates a system of particles where the force between particles is dependent on distance and their color. Because I wanted to create an exact simulation which takes n^2 comparisons, I've implemented it using NVIDIA's CUDA interface for parallel computing. The graphics are rendered using OpenGL, which supports passing data with CUDA. Simulation has an interactive ImGUI GUI which allows the user to control its parameters and see the changes in real time.
+            </p>
+        </td>
+    </tr>
+</table>
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
-  <a href="https://github.com/pawel002/Convex-Hull">
-    <img src="https://github.com/pawel002/pawel002/blob/main/assets/g7962.png?raw=true" width=150/ style="float:left; padding: 20px;">
-  </a>
-<p>
-    <font size="5px"> Implementation and visualization of convex hull algorithms in Python </font> <br/>
-Together with my friend I have created a python library that allows the user to generate various clouds of 2D points and find a convex hull/visualize/benchmark the speed of implemented algorithms. We've implemented the following algorithms: Jarvis, Grahams, Chan, Divide and Conquer, Upper-lower hull, Quickhull and Increment. For, more detailed description, you can check the documentation although it's in Polish.
-</p>
+    
+<table>
+<tr>
+    <td>  
+          <a href="https://github.com/pawel002/Convex-Hull">
+            <img src="https://github.com/pawel002/pawel002/blob/main/assets/g7962.png?raw=true" width=150/ style="float:left; padding: 20px;">
+          </a>
+    </td>
+    <td>
+            <p>
+                <font size="5px"> Implementation and visualization of convex hull algorithms in Python </font> <br/>
+            Together with my friend I have created a python library that allows the user to generate various clouds of 2D points and find a convex hull/visualize/benchmark the speed of implemented algorithms. We've implemented the following algorithms: Jarvis, Grahams, Chan, Divide and Conquer, Upper-lower hull, Quickhull and Increment. For, more detailed description, you can check the documentation although it's in Polish.
+            </p>
+    </td>
+</tr>
+</table>
 </td>
 <td valign="top" width="50%">
 -> FILL
