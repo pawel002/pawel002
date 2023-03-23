@@ -44,6 +44,7 @@ Together with my friend I have created a python library that allows the user to 
 </tr>
 </table>
 
+I've created many more smaller projects that I don't feel like includeing in this list. You can see some of them on my github and give them a star.
 
 <table>
 <tr>
