@@ -40,7 +40,13 @@ Together with my friend I have created a python library that allows the user to 
 </p>
 </td>
 <td valign="top" width="50%">
--> FILL
+  <a href="https://github.com/pawel002/Nodal-Analysis">
+    <img src="https://github.com/pawel002/pawel002/blob/main/assets/g1154.png?raw=true" width=150/ style="float:left; padding: 20px;">
+  </a>
+<p>
+    <font size="5px"> Nodal analysis and visualization of resistor graphs in Python </font> <br/> <br/>
+I have created a python library that allows the user to generate a few types of graphs of resitors and solve them using nodal analysis in the matrix form. As a part of visualization, I've created a program that implements force-directed graph drawing technique using numpy and pygame. Solutions wre checked using Tellegen's theorem and the solution in represented in a interactive matplotlib plot.
+</p>
 </td>
 </tr>
 </table>
